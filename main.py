@@ -1,2 +1,2 @@
-print('Hello.')
+print('Hi.')
 print('Checking merge conflicts.')
