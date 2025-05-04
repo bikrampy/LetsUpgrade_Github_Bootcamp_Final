@@ -1,2 +1,2 @@
 print('Hello.')
-print('I am at secondary branch.')
+print('Checking merge conflicts.')
